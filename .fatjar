@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Thu Jan 27 12:52:42 EET 2011
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=EpicTetris.jar
+manifest.mergeall=true
+manifest.mainclass=hakaplanet.Main
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=<inc|EpicTetris/lib>;<inc|EpicTetris/data>;<inc|EpicTetris/native>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<!-- Images -->
+	<resource type="image" id="MENU_BACKGROUND"> data\menubg.png </resource>
+	<resource type="image" id="PLAYSTATE_BACKGROUND"> data\playbg.png </resource>
+	<resource type="image" id="PIECE_BLOCKS"> data\blocks.png </resource>
+	
+	<!-- Sounds -->
+	<resource type ="sound" id="GAME_PLAY_MUSIC">data\sounds\LIVE_TO_WIN.wav	</resource>
+<resources>
